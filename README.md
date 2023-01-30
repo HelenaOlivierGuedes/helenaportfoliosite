@@ -14,8 +14,23 @@
 
 - <b> </b> 
 
-<h2>🗺️ Program walk-through</h2>
+<h2>🗺️ Walk-through</h2>
 
+**1) Setting up Ghost on your own server:** 
+
+**2) Setting up the domain:** 
+ 
+**3) Creating a droplet in DigitalOcean:**
+
+**4) DNS set-up:**  
+
+**5) Setting up Ghost from the terminal:** 
+
+**6) Site Set Up & Customization:** 
+
+**7) Creating Pages & Fixing 404 Errors:**  
+
+**8) Adding Google Analytics & Removing AMP:**  
 
 <h2>📚 Helpful Resources Used </h2>
 
