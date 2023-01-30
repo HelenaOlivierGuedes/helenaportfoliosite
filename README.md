@@ -1,7 +1,5 @@
 <h1>Building a Portfolio & Blog Site</h1>
 
- ### [YouTube Demonstration]( )
-
 <h2>Description</h2>
 
 <br />
