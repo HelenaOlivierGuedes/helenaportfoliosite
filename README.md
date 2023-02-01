@@ -7,12 +7,13 @@
 
 <h2>🛠️ Languages and Utilities Used</h2>
 
-- <b>  </b> 
-- <b> </b>
+- Language: Node.js
+- Hosting: Ghost
+- Server: Digital Ocean
 
 <h2>💻 Environments Used </h2>
 
-- <b> </b> 
+- Server Environment: Ubuntu 22.04
 
 <h2>🗺️ Walk-through</h2>
 
